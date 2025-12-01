@@ -1,5 +1,5 @@
 console.log("Welcome to the git course");
 
 for(var i=0; i<5; i++ ){
-  console.log("webster");
+  console.log("web");
 }
